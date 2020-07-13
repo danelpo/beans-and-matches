@@ -1,0 +1,18 @@
+table {
+    height: 87vh;
+    width: 87vh;
+    border: 1px solid black;
+    margin: auto;
+}
+
+button {
+    width: 28vh;
+    height: 28vh;
+    margin: 1vh;
+    margin:auto;
+    font-size: xxx-large;
+}
+
+#save {
+    height: 6vh;
+}
